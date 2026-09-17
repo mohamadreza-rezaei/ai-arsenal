@@ -121,7 +121,6 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 |---|---|---|---|---|
 | 🐋 **[Orca](https://github.com/stablyai/orca)** | AI development environment for running Codex, Claude Code, OpenCode and Pi side-by-side in isolated worktrees, with mobile monitoring. | [![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square)](https://github.com/stablyai/orca/stargazers) | 🏆 | ![Coding Agent](https://img.shields.io/badge/Coding%20Agent-2563EB?style=flat-square) ![Orchestration](https://img.shields.io/badge/Orchestration-8B5CF6?style=flat-square) |
 | 🐑 **[Herdr](https://github.com/herdrdev/herdr)** | Runtime and workspace manager for coding agents, with terminal multiplexing, sessions and remote workflows. | [![stars](https://img.shields.io/github/stars/herdrdev/herdr?style=flat-square)](https://github.com/herdrdev/herdr/stargazers) | 🏆 | ![Coding Agent](https://img.shields.io/badge/Coding%20Agent-2563EB?style=flat-square) ![Agent Runtime](https://img.shields.io/badge/Agent%20Runtime-8B5CF6?style=flat-square) |
-| 🏗️ **[Archify](https://github.com/tt-a1i/archify)** | Agent skill for architecture, workflow, sequence, data-flow and lifecycle diagrams as verifiable standalone artifacts. | [![stars](https://img.shields.io/github/stars/tt-a1i/archify?style=flat-square)](https://github.com/tt-a1i/archify/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-0EA5E9?style=flat-square) |
 | 🧭 **[Warp Agents CLI](https://docs.warp.dev/agents/cli/quickstart/)** | Agentic CLI workflow for using Warp as a development environment around coding agents. | 🌐 Official | 🏆 | ![Coding Agent](https://img.shields.io/badge/Coding%20Agent-2563EB?style=flat-square) ![CLI](https://img.shields.io/badge/CLI-475569?style=flat-square) |
 | 💻 **[V3Code](https://v3code.dev/)** | Local-first, BYOK AI code editor with persistent memory, semantic indexing, LSP context and MCP connectivity. | 🌐 Official | 🏆 | ![Coding Agent](https://img.shields.io/badge/Coding%20Agent-2563EB?style=flat-square) ![Local-First](https://img.shields.io/badge/Local-First-10B981?style=flat-square) |
 
@@ -153,7 +152,6 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
 | 🚦 **[Devoport](https://github.com/mobinhasanghasemi/devoport)** | Local-first manager for multiple AI CLI accounts and credentials. | [![stars](https://img.shields.io/github/stars/mobinhasanghasemi/devoport?style=flat-square)](https://github.com/mobinhasanghasemi/devoport/stargazers) |  | ![Developer Tool](https://img.shields.io/badge/Developer%20Tool-64748B?style=flat-square) ![CLI](https://img.shields.io/badge/CLI-475569?style=flat-square) |
-| 🤖 **[AI Gateway Bot](https://github.com/sikotmt/AiGatewayBot)** | Telegram AI gateway supporting multiple model providers with memory and admin tooling. | [![stars](https://img.shields.io/github/stars/sikotmt/AiGatewayBot?style=flat-square)](https://github.com/sikotmt/AiGatewayBot/stargazers) |  | ![AI Gateway](https://img.shields.io/badge/AI%20Gateway-0F766E?style=flat-square) ![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat-square) |
 
 ---
 
@@ -163,6 +161,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
+| 🏗️ **[Archify](https://github.com/tt-a1i/archify)** | Agent skill for architecture, workflow, sequence, data-flow and lifecycle diagrams as verifiable standalone artifacts. | [![stars](https://img.shields.io/github/stars/tt-a1i/archify?style=flat-square)](https://github.com/tt-a1i/archify/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-0EA5E9?style=flat-square) |
 | 🧠 **[Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills)** | Compact Claude Code behavior guidance derived from Karpathy's observations about coding-agent pitfalls. | [![stars](https://img.shields.io/github/stars/multica-ai/andrej-karpathy-skills?style=flat-square)](https://github.com/multica-ai/andrej-karpathy-skills/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Context](https://img.shields.io/badge/Context-F97316?style=flat-square) |
 | 🎨 **[UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** | Design intelligence for professional UI/UX across multiple platforms. | [![stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![UI/UX](https://img.shields.io/badge/UI/UX-EC4899?style=flat-square) |
 | 🎨 **[Taste Skill](https://github.com/Leonxlnx/taste-skill)** | Anti-slop frontend skills for stronger layout, typography, spacing and motion in AI-generated interfaces. | [![stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square)](https://github.com/Leonxlnx/taste-skill/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![UI/UX](https://img.shields.io/badge/UI/UX-EC4899?style=flat-square) |
@@ -364,26 +363,26 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 | Resource | Purpose | Tags |
 |---|---|---|
-| 🦞 **[OpenClaw](https://openclaw.ai/)** | Official OpenClaw website and documentation entry point. |
-| 🐍 **[Hermes Agent](https://hermes-agent.org/)** | Official Hermes Agent website. |
-| 🕸️ **[Graphify](https://graphify.net/)** | Official Graphify website. |
-| 🧑‍🤝‍🧑 **[Multica](https://multica.ai/)** | Human + agent team management platform. |
-| 🎬 **[Google Flow](https://flow.google.com/)** | Google AI creative studio for video and image creation. |
-| 🧱 **[Emergent](https://app.emergent.sh/home)** | AI application-building workspace. |
-| 🆓 **[Freebuff](https://freebuff.com/)** | Free AI coding-agent platform. |
-| 🌀 **[ClaudeFlow](https://www.claudeflow.dev/)** | Claude-centered AI coding workflows. |
-| 🟢 **[Z.ai](https://z.ai/chat)** | GLM language/vision/video/agent platform. |
-| ⚡ **[ZCode](https://zcode.z.ai/en)** | Official GLM coding-agent harness. |
-| 🧠 **[Polsia](https://polsia.com/)** | AI-first business automation platform. |
-| ⚫ **[Grok Bot](https://x.ai/bot)** | xAI bot / agent product surface. |
-| 🟩 **[NVIDIA Build](https://build.nvidia.com/)** | NVIDIA NIM model/API playground. |
-| 🧩 **[Command Code Skills](https://commandcode.ai/skills)** | Agent Skills discovery ecosystem. |
+| 🦞 **[OpenClaw](https://openclaw.ai/)** | Official OpenClaw website and documentation entry point. | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Docs](https://img.shields.io/badge/Docs-64748B?style=flat-square) |
+| 🐍 **[Hermes Agent](https://hermes-agent.org/)** | Official Hermes Agent website. | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Docs](https://img.shields.io/badge/Docs-64748B?style=flat-square) |
+| 🕸️ **[Graphify](https://graphify.net/)** | Official Graphify website. | ![Graph](https://img.shields.io/badge/Graph-14B8A6?style=flat-square) ![Docs](https://img.shields.io/badge/Docs-64748B?style=flat-square) |
+| 🧑‍🤝‍🧑 **[Multica](https://multica.ai/)** | Human + agent team management platform. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![Agents](https://img.shields.io/badge/Agents-8B5CF6?style=flat-square) |
+| 🎬 **[Google Flow](https://flow.google.com/)** | Google AI creative studio for video and image creation. | ![Video](https://img.shields.io/badge/Video-EF4444?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) |
+| 🧱 **[Emergent](https://app.emergent.sh/home)** | AI application-building workspace. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![Workspace](https://img.shields.io/badge/Workspace-0EA5E9?style=flat-square) |
+| 🆓 **[Freebuff](https://freebuff.com/)** | Free AI coding-agent platform. | ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) |
+| 🌀 **[ClaudeFlow](https://www.claudeflow.dev/)** | Claude-centered AI coding workflows. | ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-64748B?style=flat-square) |
+| 🟢 **[Z.ai](https://z.ai/chat)** | GLM language/vision/video/agent platform. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![AI](https://img.shields.io/badge/AI-06B6D4?style=flat-square) |
+| ⚡ **[ZCode](https://zcode.z.ai/en)** | Official GLM coding-agent harness. | ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) |
+| 🧠 **[Polsia](https://polsia.com/)** | AI-first business automation platform. | ![Automation](https://img.shields.io/badge/Automation-64748B?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) |
+| ⚫ **[Grok Bot](https://x.ai/bot)** | xAI bot / agent product surface. | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Bot](https://img.shields.io/badge/Bot-229ED9?style=flat-square) |
+| 🟩 **[NVIDIA Build](https://build.nvidia.com/)** | NVIDIA NIM model/API playground. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![Models](https://img.shields.io/badge/Models-06B6D4?style=flat-square) |
+| 🧩 **[Command Code Skills](https://commandcode.ai/skills)** | Agent Skills discovery ecosystem. | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Registry](https://img.shields.io/badge/Registry-64748B?style=flat-square) |
 | 📈 **[Trendshift](https://trendshift.io/)** | Live trending GitHub repository discovery based on daily momentum. | ![Discovery](https://img.shields.io/badge/Discovery-0EA5E9?style=flat-square) ![Trends](https://img.shields.io/badge/Trends-F59E0B?style=flat-square) |
 | ⭐ **[Star History](https://www.star-history.com/)** | Tracks and compares GitHub star growth over time; useful for validating project momentum. | ![Analytics](https://img.shields.io/badge/Analytics-64748B?style=flat-square) ![Discovery](https://img.shields.io/badge/Discovery-0EA5E9?style=flat-square) |
-| 🎞️ **[Remotion AI Skills](https://www.remotion.dev/docs/ai/skills)** | AI skills for programmatic video development. |
-| 🔎 **[Perplexity MCP](https://docs.perplexity.ai/docs/getting-started/integrations/mcp-server)** | Perplexity MCP integration docs. |
-| 🎭 **[Playwright MCP](https://playwright.dev/mcp/introduction)** | Playwright MCP browser automation. |
-| 🔥 **[Firecrawl MCP](https://docs.firecrawl.dev/mcp-server)** | Firecrawl MCP web-research integration. |
+| 🎞️ **[Remotion AI Skills](https://www.remotion.dev/docs/ai/skills)** | AI skills for programmatic video development. | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Video](https://img.shields.io/badge/Video-EF4444?style=flat-square) |
+| 🔎 **[Perplexity MCP](https://docs.perplexity.ai/docs/getting-started/integrations/mcp-server)** | Perplexity MCP integration docs. | ![MCP](https://img.shields.io/badge/MCP-06B6D4?style=flat-square) ![Docs](https://img.shields.io/badge/Docs-64748B?style=flat-square) |
+| 🎭 **[Playwright MCP](https://playwright.dev/mcp/introduction)** | Playwright MCP browser automation. | ![MCP](https://img.shields.io/badge/MCP-06B6D4?style=flat-square) ![Browser](https://img.shields.io/badge/Browser-3B82F6?style=flat-square) |
+| 🔥 **[Firecrawl MCP](https://docs.firecrawl.dev/mcp-server)** | Firecrawl MCP web-research integration. | ![MCP](https://img.shields.io/badge/MCP-06B6D4?style=flat-square) ![Web](https://img.shields.io/badge/Web-0EA5E9?style=flat-square) |
 | 💻 **[AI Coding Daily](https://aicodingdaily.com/)** | AI coding news, tools and developer-focused resources. | ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) ![Discovery](https://img.shields.io/badge/Discovery-0EA5E9?style=flat-square) |
 ---
 
