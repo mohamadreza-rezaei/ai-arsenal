@@ -22,7 +22,7 @@
 >
 > 🧹 Duplicate URLs were consolidated. Generic infrastructure that was not directly AI-focused was omitted.
 > 
-> 📊 Total curated links: 174 across 14 categories
+> 📊 Total curated links: 184 across 14 categories
 
 </div>
 
@@ -32,20 +32,20 @@
 
 | Category | Focus | Links |
 |---|---|---|
-| 🤖 [AI Agents & Autonomous Systems](#-ai-agents--autonomous-systems) | General agents, multi-agent systems, agent platforms | 17 |
-| 💻 [AI Coding & Developer Tools](#-ai-coding--developer-tools) | Coding agents, code intelligence, developer tooling | 21 |
-| 🧩 [Agent Skills & Skill Ecosystem](#-agent-skills--skill-ecosystem) | Skills, plugins, context engineering, reusable agent capabilities | 24 |
+| 🤖 [AI Agents & Autonomous Systems](#-ai-agents--autonomous-systems) | General agents, multi-agent systems, agent platforms | 19 |
+| 💻 [AI Coding & Developer Tools](#-ai-coding--developer-tools) | Coding agents, code intelligence, developer tooling | 22 |
+| 🧩 [Agent Skills & Skill Ecosystem](#-agent-skills--skill-ecosystem) | Skills, plugins, context engineering, reusable agent capabilities | 28 |
 | 🔌 [MCP & Agent Tools](#-mcp--agent-tools) | MCP servers, browser control, research & web access | 12 |
 | 🏠 [Self-Hosted & Local AI](#-self-hosted--local-ai) | Local-first AI, self-hosted stacks, memory | 12 |
-| 🧠 [RAG, Knowledge & Observability](#-rag-knowledge--observability) | Knowledge bases, notebooks, tracing, evaluation | 12 |
-| 🎨 [Generative Media](#-generative-media) | Image/video generation & creative AI | 5 |
+| 🧠 [RAG, Knowledge & Observability](#-rag-knowledge--observability) | Knowledge bases, notebooks, tracing, evaluation | 13 |
+| 🎨 [Generative Media](#-generative-media) | Image/video generation & creative AI | 6 |
 | ⚙️ [Workflow Automation](#-workflow-automation) | n8n and AI automation resources | 7 |
 | 🧪 [AI Security](#-ai-security) | AI-assisted security and pentesting | 5 |
 | 📣 [AI Marketing & SEO](#-ai-marketing--seo) | Marketing skills, SEO agents and workflows | 5 |
 | 🏢 [AI Business & CRM](#-ai-business--crm) | Agentic CRM and business automation | 6 |
 | 🌐 [AI Platforms, Models & APIs](#-ai-platforms-models--apis) | Model providers, model frameworks, inference, APIs | 17 |
 | 📚 [Learning & AI Utilities](#-learning--ai-utilities) | Learning-oriented AI utilities and resources | 8 |
-| 🌐 [Official Sites & Web Tools](#-official-sites--web-tools) | Official products, docs and hosted services | 23 |
+| 🌐 [Official Sites & Web Tools](#-official-sites--web-tools) | Official products, docs and hosted services | 24 |
 
 ---
 
@@ -86,7 +86,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🤖 AI Agents & Autonomous Systems (17 links)
+## 🤖 AI Agents & Autonomous Systems (19 links)
 
 ### 🧠 General-purpose / Autonomous Agents
 
@@ -103,6 +103,8 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 | 🌐 **[Browser Use](https://github.com/browser-use/browser-use)** | Browser automation agent for real web tasks, navigation, extraction and multi-step workflows. | [![stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square)](https://github.com/browser-use/browser-use/stargazers) | 🏆 | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Browser](https://img.shields.io/badge/Browser-3B82F6?style=flat-square) |
 | 🎭 **[Agency Agents](https://github.com/msitarzewski/agency-agents)** | Collection of specialized AI agents with defined roles, workflows and deliverables. | [![stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat-square)](https://github.com/msitarzewski/agency-agents/stargazers) |  | ![Agents](https://img.shields.io/badge/Agents-8B5CF6?style=flat-square) ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) |
 | 🧬 **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)** | Plugin-oriented harness for composing and extending AI agent capabilities. | [![stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-harness?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness/stargazers) | 🏆 | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Harness](https://img.shields.io/badge/Harness-7C3AED?style=flat-square) |
+| 🧠 **[Feynman](https://github.com/advaitpaliwal/feynman)** | Open-source AI research agent for research workflows, model switching and skill installation. | [![stars](https://img.shields.io/github/stars/advaitpaliwal/feynman?style=flat-square)](https://github.com/advaitpaliwal/feynman/stargazers) | 🏆 | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Research](https://img.shields.io/badge/Research-0891B2?style=flat-square) |
+| 🧪 **[OpenResearch](https://github.com/alphaXiv/OpenResearch)** | Research workspace for parallel agent exploration, experiments and reproducible findings. | [![stars](https://img.shields.io/github/stars/alphaXiv/OpenResearch?style=flat-square)](https://github.com/alphaXiv/OpenResearch/stargazers) | 🏆 | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Research](https://img.shields.io/badge/Research-0891B2?style=flat-square) |
 | 🐍 **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** | Self-improving agent with persistent memory, skills and multiple model backends. | [![stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square)](https://github.com/NousResearch/hermes-agent/stargazers) | 🏆 | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Self-Hosted](https://img.shields.io/badge/Self-Hosted-10B981?style=flat-square) |
 | 🎛️ **[Oh My Hermes](https://github.com/rlaope/oh-my-hermes)** | Operating layer that adds structured workflows, evidence gates and capabilities around Hermes. | [![stars](https://img.shields.io/github/stars/rlaope/oh-my-hermes?style=flat-square)](https://github.com/rlaope/oh-my-hermes/stargazers) |  | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) |
 
@@ -117,7 +119,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 💻 AI Coding & Developer Tools (21 links)
+## 💻 AI Coding & Developer Tools (22 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -154,10 +156,11 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
 | 🚦 **[Devoport](https://github.com/mobinhasanghasemi/devoport)** | Local-first manager for multiple AI CLI accounts and credentials. | [![stars](https://img.shields.io/github/stars/mobinhasanghasemi/devoport?style=flat-square)](https://github.com/mobinhasanghasemi/devoport/stargazers) |  | ![Developer Tool](https://img.shields.io/badge/Developer%20Tool-64748B?style=flat-square) ![CLI](https://img.shields.io/badge/CLI-475569?style=flat-square) |
+| 📚 **[Awesome Copilot](https://github.com/github/awesome-copilot)** | Community-led collection of custom agents, instructions, skills, hooks and workflows for GitHub Copilot. | [![stars](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square)](https://github.com/github/awesome-copilot/stargazers) | 🏆 | ![Developer Tool](https://img.shields.io/badge/Developer%20Tool-64748B?style=flat-square) ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) |
 
 ---
 
-## 🧩 Agent Skills & Skill Ecosystem (24 links)
+## 🧩 Agent Skills & Skill Ecosystem (28 links)
 
 ### 🧠 Context Engineering / Agent Behavior
 
@@ -175,6 +178,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 | 🧭 **[Agent Skills](https://github.com/addyosmani/agent-skills)** | Production-oriented engineering skills for AI coding agents. | [![stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square)](https://github.com/addyosmani/agent-skills/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) |
 | 📚 **[Book to Skill](https://github.com/virgiliojr94/book-to-skill)** | Turns technical book PDFs into reusable Claude Code skills for study and work. | [![stars](https://img.shields.io/github/stars/virgiliojr94/book-to-skill?style=flat-square)](https://github.com/virgiliojr94/book-to-skill/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Learning](https://img.shields.io/badge/Learning-84CC16?style=flat-square) |
 | 🧠 **[I Have ADHD](https://github.com/ayghri/i-have-adhd)** | Makes coding-agent output more direct, structured and action-oriented. | [![stars](https://img.shields.io/github/stars/ayghri/i-have-adhd?style=flat-square)](https://github.com/ayghri/i-have-adhd/stargazers) |  | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) |
+| 🧩 **[Obsidian Skills](https://github.com/kepano/obsidian-skills)** | Agent Skills pack for Obsidian workflows and cross-agent knowledge use. | [![stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=flat-square)](https://github.com/kepano/obsidian-skills/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Knowledge](https://img.shields.io/badge/Knowledge-0EA5E9?style=flat-square) |
 | ✍️ **[Stop Slop](https://github.com/hardikpandya/stop-slop)** | Skill for removing common AI-writing patterns from generated prose. | [![stars](https://img.shields.io/github/stars/hardikpandya/stop-slop?style=flat-square)](https://github.com/hardikpandya/stop-slop/stargazers) |  | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Writing](https://img.shields.io/badge/Writing-A855F7?style=flat-square) |
 | 📝 **[No AI Slop](https://github.com/petergyang/no-ai-slop)** | Skill that removes recurring AI-writing patterns and stylistic artifacts. | [![stars](https://img.shields.io/github/stars/petergyang/no-ai-slop?style=flat-square)](https://github.com/petergyang/no-ai-slop/stargazers) |  | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Writing](https://img.shields.io/badge/Writing-A855F7?style=flat-square) |
 
@@ -184,6 +188,9 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 |---|---|---|---|---|
 | 🧩 **[Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)** | Curated collection of Claude Skills, tools and workflow resources. | [![stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square)](https://github.com/ComposioHQ/awesome-claude-skills/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square) |
 | 🧩 **[Agent Skills Hub](https://github.com/agent-skills-hub/agent-skills-hub)** | Cross-agent registry of 790+ reusable skills with NPX installation for Claude Code, Gemini, Cursor, Codex, Antigravity, OpenCode and OpenClaw. | [![stars](https://img.shields.io/github/stars/agent-skills-hub/agent-skills-hub?style=flat-square)](https://github.com/agent-skills-hub/agent-skills-hub/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Registry](https://img.shields.io/badge/Registry-64748B?style=flat-square) |
+| 🧩 **[Agentic Awesome Skills](https://github.com/sickn33/agentic-awesome-skills)** | Curated directory of reusable Agent Skills and agentic workflow add-ons across tools and domains. | [![stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square)](https://github.com/sickn33/agentic-awesome-skills/stargazers) |  | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Registry](https://img.shields.io/badge/Registry-64748B?style=flat-square) |
+| 🧩 **[Agent Skills](https://github.com/agentskills/agentskills)** | Open standard and ecosystem for packaging and distributing Agent Skills across agent clients. | [![stars](https://img.shields.io/github/stars/agentskills/agentskills?style=flat-square)](https://github.com/agentskills/agentskills/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Standard](https://img.shields.io/badge/Standard-7C3AED?style=flat-square) |
+| 🧩 **[wshobson/agents](https://github.com/wshobson/agents)** | Plugin marketplace and skill registry for building agentic workflows across multiple harnesses. | [![stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square)](https://github.com/wshobson/agents/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Marketplace](https://img.shields.io/badge/Marketplace-10B981?style=flat-square) |
 | 🧪 **[Some Claude Skills](https://github.com/curiositech/some_claude_skills)** | Practical Claude skills for everyday developer workflows. | [![stars](https://img.shields.io/github/stars/curiositech/some_claude_skills?style=flat-square)](https://github.com/curiositech/some_claude_skills/stargazers) |  | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square) |
 | 🌐 **[Command Code Skills](https://commandcode.ai/skills)** | Web-based ecosystem for discovering and using Agent Skills. | 🌐 Official | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Registry](https://img.shields.io/badge/Registry-64748B?style=flat-square) |
 | ✍️ **[Humanizer](https://github.com/blader/humanizer)** | Portable agent skill for reducing common AI-writing patterns and making generated prose more natural. | [![stars](https://img.shields.io/github/stars/blader/humanizer?style=flat-square)](https://github.com/blader/humanizer/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Writing](https://img.shields.io/badge/Writing-A855F7?style=flat-square) |
@@ -235,7 +242,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🧠 RAG, Knowledge & Observability (12 links)
+## 🧠 RAG, Knowledge & Observability (13 links)
 
 ### 📓 Knowledge / RAG
 
@@ -247,6 +254,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 | 🧬 **[LangChain](https://github.com/langchain-ai/langchain)** | Standard framework for LLM applications, tool calling, retrieval and orchestration. | [![stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square)](https://github.com/langchain-ai/langchain/stargazers) | 🏆 | ![Framework](https://img.shields.io/badge/Framework-6366F1?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square) |
 | 🧲 **[Qdrant](https://github.com/qdrant/qdrant)** | Fast vector database for semantic search, RAG memory and similarity retrieval. | [![stars](https://img.shields.io/github/stars/qdrant/qdrant?style=flat-square)](https://github.com/qdrant/qdrant/stargazers) | 🏆 | ![Vector DB](https://img.shields.io/badge/Vector%20DB-14B8A6?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square) |
 | 📚 **[RAGFlow](https://github.com/infiniflow/ragflow)** | Open-source RAG engine focused on document understanding, grounded answers and agentic knowledge workflows. | [![stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)](https://github.com/infiniflow/ragflow/stargazers) | 🏆 | ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square) ![Knowledge](https://img.shields.io/badge/Knowledge-0EA5E9?style=flat-square) |
+| 🧾 **[OpenDraft](https://github.com/federicodeponte/opendraft)** | Autonomous research engine for literature reviews and source-grounded drafting with citation validation. | [![stars](https://img.shields.io/github/stars/federicodeponte/opendraft?style=flat-square)](https://github.com/federicodeponte/opendraft/stargazers) | 🏆 | ![Research](https://img.shields.io/badge/Research-0891B2?style=flat-square) ![Knowledge](https://img.shields.io/badge/Knowledge-0EA5E9?style=flat-square) |
 | 📄 **[AnyDoc](https://github.com/firecrawl/anydoc)** | Rust-based document converter for turning Word, PowerPoint, Excel, EPUB, CSV, PDF and other formats into clean Markdown; also ships as an Agent Skill. | [![stars](https://img.shields.io/github/stars/firecrawl/anydoc?style=flat-square)](https://github.com/firecrawl/anydoc/stargazers) | 🏆 | ![Knowledge](https://img.shields.io/badge/Knowledge-0EA5E9?style=flat-square) ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) |
 | 🧪 **[Promptfoo](https://github.com/promptfoo/promptfoo)** | Open-source evaluation and red-teaming toolkit for prompts, agents and RAG systems. | [![stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square)](https://github.com/promptfoo/promptfoo/stargazers) | 🏆 | ![Evaluation](https://img.shields.io/badge/Evaluation-7C3AED?style=flat-square) ![Security](https://img.shields.io/badge/Security-DC2626?style=flat-square) |
 | 📊 **[MLflow](https://github.com/mlflow/mlflow)** | Open-source AI engineering platform for agents, LLMs and ML models, including evaluation, observability and lifecycle management. | [![stars](https://img.shields.io/github/stars/mlflow/mlflow?style=flat-square)](https://github.com/mlflow/mlflow/stargazers) | 🏆 | ![Observability](https://img.shields.io/badge/Observability-F43F5E?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-8B5CF6?style=flat-square) |
@@ -259,13 +267,14 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🎨 Generative Media (5 links)
+## 🎨 Generative Media (6 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
 | 🎬 **[Open Generative AI](https://github.com/anil-matcha/open-generative-ai)** | Self-hosted AI image/video generation studio with a broad model ecosystem. | [![stars](https://img.shields.io/github/stars/anil-matcha/open-generative-ai?style=flat-square)](https://github.com/anil-matcha/open-generative-ai/stargazers) | 🏆 | ![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square) ![Self-Hosted](https://img.shields.io/badge/Self-Hosted-10B981?style=flat-square) |
 | 🧩 **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** | Open-source node-based visual workflow system for image/video generation and custom pipelines. | [![stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square)](https://github.com/Comfy-Org/ComfyUI/stargazers) | 🏆 | ![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-64748B?style=flat-square) |
 | 🖼️ **[Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** | Popular local-first UI for generating images from diffusion models and custom presets. | [![stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=flat-square)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) | 🏆 | ![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square) ![Image](https://img.shields.io/badge/Image-DB2777?style=flat-square) |
+| 🗣️ **[Voicebox](https://github.com/jamiepine/voicebox)** | Local-first AI voice studio for cloning voices, TTS workflows and voice-enabled AI agents. | [![stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=flat-square)](https://github.com/jamiepine/voicebox/stargazers) | 🏆 | ![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square) ![Voice](https://img.shields.io/badge/Voice-8B5CF6?style=flat-square) |
 | 🌊 **[Google Flow](https://flow.google.com/)** | Google creative AI studio for generating and working with images, video and scenes. | 🌐 Official | 🏆 | ![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square) ![Video](https://img.shields.io/badge/Video-EF4444?style=flat-square) |
 
 ---
@@ -360,7 +369,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🌐 Official Sites & Web Tools (23 links)
+## 🌐 Official Sites & Web Tools (24 links)
 
 > These links do not have GitHub Star counts, so they are marked **Official** rather than forcing a meaningless star value.
 
@@ -381,6 +390,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 | ⚫ **[Grok Bot](https://x.ai/bot)** | xAI bot / agent product surface. | ![Agent](https://img.shields.io/badge/Agent-8B5CF6?style=flat-square) ![Bot](https://img.shields.io/badge/Bot-229ED9?style=flat-square) |
 | 🟩 **[NVIDIA Build](https://build.nvidia.com/)** | NVIDIA NIM model/API playground. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![Models](https://img.shields.io/badge/Models-06B6D4?style=flat-square) |
 | 🧩 **[Command Code Skills](https://commandcode.ai/skills)** | Agent Skills discovery ecosystem. | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Registry](https://img.shields.io/badge/Registry-64748B?style=flat-square) |
+| 🚀 **[Skills.sh](https://www.skills.sh/)** | Open agent skills ecosystem for installing reusable capabilities directly into compatible agents. | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Registry](https://img.shields.io/badge/Registry-64748B?style=flat-square) |
 | 📈 **[Trendshift](https://trendshift.io/)** | Live trending GitHub repository discovery based on daily momentum. | ![Discovery](https://img.shields.io/badge/Discovery-0EA5E9?style=flat-square) ![Trends](https://img.shields.io/badge/Trends-F59E0B?style=flat-square) |
 | ⭐ **[Star History](https://www.star-history.com/)** | Tracks and compares GitHub star growth over time; useful for validating project momentum. | ![Analytics](https://img.shields.io/badge/Analytics-64748B?style=flat-square) ![Discovery](https://img.shields.io/badge/Discovery-0EA5E9?style=flat-square) |
 | 🎞️ **[Remotion AI Skills](https://www.remotion.dev/docs/ai/skills)** | AI skills for programmatic video development. | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Video](https://img.shields.io/badge/Video-EF4444?style=flat-square) |
