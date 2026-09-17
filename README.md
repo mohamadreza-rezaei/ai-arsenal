@@ -116,6 +116,9 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 ---
 
 ## 💻 AI Coding & Developer Tools
+
+| Project | What it does | Stars | Editor | Tags |
+|---|---|---|---|---|
 | 🐋 **[Orca](https://github.com/stablyai/orca)** | AI development environment for running Codex, Claude Code, OpenCode and Pi side-by-side in isolated worktrees, with mobile monitoring. | [![stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square)](https://github.com/stablyai/orca/stargazers) | 🏆 | ![Coding Agent](https://img.shields.io/badge/Coding%20Agent-2563EB?style=flat-square) ![Orchestration](https://img.shields.io/badge/Orchestration-8B5CF6?style=flat-square) |
 | 🐑 **[Herdr](https://github.com/herdrdev/herdr)** | Runtime and workspace manager for coding agents, with terminal multiplexing, sessions and remote workflows. | [![stars](https://img.shields.io/github/stars/herdrdev/herdr?style=flat-square)](https://github.com/herdrdev/herdr/stargazers) | 🏆 | ![Coding Agent](https://img.shields.io/badge/Coding%20Agent-2563EB?style=flat-square) ![Agent Runtime](https://img.shields.io/badge/Agent%20Runtime-8B5CF6?style=flat-square) |
 | 🏗️ **[Archify](https://github.com/tt-a1i/archify)** | Agent skill for architecture, workflow, sequence, data-flow and lifecycle diagrams as verifiable standalone artifacts. | [![stars](https://img.shields.io/github/stars/tt-a1i/archify?style=flat-square)](https://github.com/tt-a1i/archify/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-0EA5E9?style=flat-square) |
