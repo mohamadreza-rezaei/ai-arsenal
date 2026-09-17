@@ -21,6 +21,8 @@
 > ⭐ GitHub entries display **live Star badges**, while the ordering below reflects the popularity snapshot checked on **September 17, 2026**.
 >
 > 🧹 Duplicate URLs were consolidated. Generic infrastructure that was not directly AI-focused was omitted.
+> 
+> 📊 Total curated links: 174 across 14 categories
 
 </div>
 
@@ -28,22 +30,22 @@
 
 ## 🗺️ Quick Navigation
 
-| Category | Focus |
-|---|---|
-| 🤖 [AI Agents & Autonomous Systems](#-ai-agents--autonomous-systems) | General agents, multi-agent systems, agent platforms |
-| 💻 [AI Coding & Developer Tools](#-ai-coding--developer-tools) | Coding agents, code intelligence, developer tooling |
-| 🧩 [Agent Skills & Skill Ecosystem](#-agent-skills--skill-ecosystem) | Skills, plugins, context engineering, reusable agent capabilities |
-| 🔌 [MCP & Agent Tools](#-mcp--agent-tools) | MCP servers, browser control, research & web access |
-| 🏠 [Self-Hosted & Local AI](#-self-hosted--local-ai) | Local-first AI, self-hosted stacks, memory |
-| 🧠 [RAG, Knowledge & Observability](#-rag-knowledge--observability) | Knowledge bases, notebooks, tracing, evaluation |
-| 🎨 [Generative Media](#-generative-media) | Image/video generation & creative AI |
-| ⚙️ [Workflow Automation](#-workflow-automation) | n8n and AI automation resources |
-| 🧪 [AI Security](#-ai-security) | AI-assisted security and pentesting |
-| 📣 [AI Marketing & SEO](#-ai-marketing--seo) | Marketing skills, SEO agents and workflows |
-| 🏢 [AI Business & CRM](#-ai-business--crm) | Agentic CRM and business automation |
-| 🌐 [AI Platforms, Models & APIs](#-ai-platforms-models--apis) | Model providers, model frameworks, inference, APIs |
-| 📚 [Learning & AI Utilities](#-learning--ai-utilities) | Learning-oriented AI utilities and resources |
-| 🌐 [Official Sites & Web Tools](#-official-sites--web-tools) | Official products, docs and hosted services |
+| Category | Focus | Links |
+|---|---|---|
+| 🤖 [AI Agents & Autonomous Systems](#-ai-agents--autonomous-systems) | General agents, multi-agent systems, agent platforms | 17 |
+| 💻 [AI Coding & Developer Tools](#-ai-coding--developer-tools) | Coding agents, code intelligence, developer tooling | 21 |
+| 🧩 [Agent Skills & Skill Ecosystem](#-agent-skills--skill-ecosystem) | Skills, plugins, context engineering, reusable agent capabilities | 24 |
+| 🔌 [MCP & Agent Tools](#-mcp--agent-tools) | MCP servers, browser control, research & web access | 12 |
+| 🏠 [Self-Hosted & Local AI](#-self-hosted--local-ai) | Local-first AI, self-hosted stacks, memory | 12 |
+| 🧠 [RAG, Knowledge & Observability](#-rag-knowledge--observability) | Knowledge bases, notebooks, tracing, evaluation | 12 |
+| 🎨 [Generative Media](#-generative-media) | Image/video generation & creative AI | 5 |
+| ⚙️ [Workflow Automation](#-workflow-automation) | n8n and AI automation resources | 7 |
+| 🧪 [AI Security](#-ai-security) | AI-assisted security and pentesting | 5 |
+| 📣 [AI Marketing & SEO](#-ai-marketing--seo) | Marketing skills, SEO agents and workflows | 5 |
+| 🏢 [AI Business & CRM](#-ai-business--crm) | Agentic CRM and business automation | 6 |
+| 🌐 [AI Platforms, Models & APIs](#-ai-platforms-models--apis) | Model providers, model frameworks, inference, APIs | 17 |
+| 📚 [Learning & AI Utilities](#-learning--ai-utilities) | Learning-oriented AI utilities and resources | 8 |
+| 🌐 [Official Sites & Web Tools](#-official-sites--web-tools) | Official products, docs and hosted services | 23 |
 
 ---
 
@@ -84,7 +86,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🤖 AI Agents & Autonomous Systems
+## 🤖 AI Agents & Autonomous Systems (17 links)
 
 ### 🧠 General-purpose / Autonomous Agents
 
@@ -115,7 +117,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 💻 AI Coding & Developer Tools
+## 💻 AI Coding & Developer Tools (21 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -155,13 +157,14 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🧩 Agent Skills & Skill Ecosystem
+## 🧩 Agent Skills & Skill Ecosystem (24 links)
 
 ### 🧠 Context Engineering / Agent Behavior
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
 | 🏗️ **[Archify](https://github.com/tt-a1i/archify)** | Agent skill for architecture, workflow, sequence, data-flow and lifecycle diagrams as verifiable standalone artifacts. | [![stars](https://img.shields.io/github/stars/tt-a1i/archify?style=flat-square)](https://github.com/tt-a1i/archify/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-0EA5E9?style=flat-square) |
+| 🧠 **[Superpowers](https://github.com/obra/superpowers)** | Methodology and plugin skillset for spec-first, TDD, subagent-driven software development. | [![stars](https://img.shields.io/github/stars/obra/superpowers?style=flat-square)](https://github.com/obra/superpowers/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-64748B?style=flat-square) |
 | 🧠 **[Andrej Karpathy Skills](https://github.com/multica-ai/andrej-karpathy-skills)** | Compact Claude Code behavior guidance derived from Karpathy's observations about coding-agent pitfalls. | [![stars](https://img.shields.io/github/stars/multica-ai/andrej-karpathy-skills?style=flat-square)](https://github.com/multica-ai/andrej-karpathy-skills/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![Context](https://img.shields.io/badge/Context-F97316?style=flat-square) |
 | 🎨 **[UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** | Design intelligence for professional UI/UX across multiple platforms. | [![stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![UI/UX](https://img.shields.io/badge/UI/UX-EC4899?style=flat-square) |
 | 🎨 **[Taste Skill](https://github.com/Leonxlnx/taste-skill)** | Anti-slop frontend skills for stronger layout, typography, spacing and motion in AI-generated interfaces. | [![stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square)](https://github.com/Leonxlnx/taste-skill/stargazers) | 🏆 | ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square) ![UI/UX](https://img.shields.io/badge/UI/UX-EC4899?style=flat-square) |
@@ -190,7 +193,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🔌 MCP & Agent Tools
+## 🔌 MCP & Agent Tools (12 links)
 
 ### 🌐 Browser / Web Access
 
@@ -214,7 +217,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🏠 Self-Hosted & Local AI
+## 🏠 Self-Hosted & Local AI (12 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -232,7 +235,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🧠 RAG, Knowledge & Observability
+## 🧠 RAG, Knowledge & Observability (12 links)
 
 ### 📓 Knowledge / RAG
 
@@ -256,7 +259,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🎨 Generative Media
+## 🎨 Generative Media (5 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -267,7 +270,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## ⚙️ Workflow Automation
+## ⚙️ Workflow Automation (7 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -280,7 +283,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🧪 AI Security
+## 🧪 AI Security (5 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -291,7 +294,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 📣 AI Marketing & SEO
+## 📣 AI Marketing & SEO (5 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -302,7 +305,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🏢 AI Business & CRM
+## 🏢 AI Business & CRM (6 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -314,7 +317,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🌐 AI Platforms, Models & APIs
+## 🌐 AI Platforms, Models & APIs (17 links)
 
 ### 🤖 Model / API Platforms
 
@@ -343,7 +346,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 📚 Learning & AI Utilities
+## 📚 Learning & AI Utilities (8 links)
 
 | Project | What it does | Stars | Editor | Tags |
 |---|---|---|---|---|
@@ -357,7 +360,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 
 ---
 
-## 🌐 Official Sites & Web Tools
+## 🌐 Official Sites & Web Tools (23 links)
 
 > These links do not have GitHub Star counts, so they are marked **Official** rather than forcing a meaningless star value.
 
@@ -370,6 +373,7 @@ Tags are intentionally **compact**: each resource gets only the 1–2 labels tha
 | 🎬 **[Google Flow](https://flow.google.com/)** | Google AI creative studio for video and image creation. | ![Video](https://img.shields.io/badge/Video-EF4444?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) |
 | 🧱 **[Emergent](https://app.emergent.sh/home)** | AI application-building workspace. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![Workspace](https://img.shields.io/badge/Workspace-0EA5E9?style=flat-square) |
 | 🆓 **[Freebuff](https://freebuff.com/)** | Free AI coding-agent platform. | ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) |
+| 🧠 **[Syntx AI](https://syntx.ai/)** | AI platform for managed subscriptions, team access and enterprise plans. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![Business](https://img.shields.io/badge/Business-0EA5E9?style=flat-square) |
 | 🌀 **[ClaudeFlow](https://www.claudeflow.dev/)** | Claude-centered AI coding workflows. | ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-64748B?style=flat-square) |
 | 🟢 **[Z.ai](https://z.ai/chat)** | GLM language/vision/video/agent platform. | ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) ![AI](https://img.shields.io/badge/AI-06B6D4?style=flat-square) |
 | ⚡ **[ZCode](https://zcode.z.ai/en)** | Official GLM coding-agent harness. | ![Coding](https://img.shields.io/badge/Coding-2563EB?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-475569?style=flat-square) |
